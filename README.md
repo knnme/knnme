@@ -18,7 +18,7 @@
   <img align="center" alt="Kn-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Kn-SASS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Kn-VueJs" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Kn-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div><br>
 
 <div align="center">
